@@ -1,0 +1,53 @@
+html {
+	font-family: 'Montserrat';
+}
+
+body {
+	background-color: black;
+}
+
+
+h1 {
+	color: magenta;
+	font-family: 'Montserrat';
+	border: 5px dashed yellow;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: magenta;
+	font-family: 'Montserrat';
+}
+
+h3 {
+	color: magenta;
+	font-family: 'Montserrat';
+}
+
+p {
+	color: magenta;
+	font-family: 'Montserrat';
+	border: 5px dashed yellow; 
+	word-wrap
+}
+ul {
+	color: magenta;
+	font-family: 'Montserrat';
+}
+
+li {
+	color: magenta;
+	font-family: 'Montserrat';
+}
+
+img {
+	float: left;
+	margin: 10px;
+}
+}
+
+
+
+
+
