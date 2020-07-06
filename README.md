@@ -1,1 +1,1 @@
-# bear-web2
+# BearWeb
