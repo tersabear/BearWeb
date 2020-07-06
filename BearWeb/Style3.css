@@ -1,0 +1,60 @@
+html {
+	font-family: 'Montserrat';
+}
+
+
+title {
+	color: magenta;
+}
+
+body {
+	background-color: black;
+}
+
+
+h1 {
+	color: magenta;
+	text-align: center;
+	border: 5px dashed yellow;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-family: 'Montserrat';
+}
+
+h2 {
+	color: magenta;
+	text-align: center;
+	font-family: 'Montserrat';
+}
+
+h3 {
+	color: magenta;
+	font-family: 'Montserrat';
+}
+
+h4 {
+	color: magenta;
+	font-family: 'Montserrat';
+}
+
+h5 {
+	color: magenta; 
+	font-family: 'Montserrat';
+}
+
+p {
+	font-size: 20px;
+	color: magenta;
+}
+
+div {
+	color: magenta;
+	text-align: left;
+}
+
+.boxmodel {
+	border: 5px solid yellow;
+}
+
+
+
